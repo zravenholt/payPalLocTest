@@ -1,0 +1,64 @@
+
+"activity.details.contactSeller.noEmail.errorMessage" = "Richten Sie es zuerst in Ihren Geräteeinstellungen ein. Oder kontaktieren Sie den Verkäufer über die PayPal-Website.";
+
+"activity.details.contactSeller.noEmail.errorOk" = "OK";
+
+"activity.details.contactSeller.noEmail.errorTitle" = "Offenbar hast du noch keine E-Mails auf deinem Handy eingerichtet";
+
+"activity.details.counterPartyHistory.text" = "Siehe andere Transaktionen";
+
+"activity.details.counterPartySendMoney.text" = "Zahlungen senden";
+
+"activity.details.funding.source.type.balance" = "Paypal-Kontostand";
+
+"activity.details.invoice.action.visitwebsite" = "Sie können Ihre Rechnungen auf der Webseiteder <a href='%1$@'>verwalten. </a>";
+
+"activity.details.invoice.debit.text" = "%2$@ hat Ihnen eine Rechnung für %1$@ geschickt";
+
+"activity.details.moneyRefunded.credit.text" = "Sie wurden %1$@ von %2$@ zurückerstattet";
+
+"activity.details.moneyRequestCancel.text" = "Die Anfrage für %1$@ wurde storniert";
+
+"activity.details.moneyTransfered.credit.text" = "Sie haben %1$@ in Ihre %2$@-Waage übertragen";
+
+"activity.details.moneyTransfered.debit.text" = "Sie haben %1$@ zu %2$@ zurückgezogen";
+
+"activity.details.order.credit.text" = "%2$@ hat eine Bestellung für %1$@ erhalten";
+
+"activity.details.order.echeck.goodsAndServices.credit.text" = "eCheck geschätztes Fertigstellungsdatum ist %1$@. Verschicken Sie keine Artikel, bis Sie die Zahlung erhalten haben.";
+
+"activity.details.order.echeck.goodsAndServices.debit.text" = "Das geschätzte Fertigstellungsdatum der eCheque ist %1$@. Wir empfehlen den Verkäufern, Artikel erst nach Zahlungseingang zu versenden.";
+
+"activity.details.order.payAfterDelivery.details.text" = "Ihre Bank wird automatisch auf %@belastet. Wenn Sie bereit sind zu zahlen, zögern Sie nicht, jetzt zu bezahlen.";
+
+"activity.details.payafterdelivery.failure-alert.text" = "Etwas scheint falsch gelaufen zu sein. Bitte warten Sie einen Moment, dann versuchen Sie es noch einmal.";
+
+"activity.details.purchaseItemName.text" = "%1$@ (Menge: %2$@)";
+
+"activity.details.requestMoney.cancelRequest.alertMessageRequestee" = "Wir werden eine E-Mail an %1$@ senden, um sie darüber zu informieren, dass die Anfrage storniert wurde.";
+
+"activity.details.requestMoney.cancelRequest.alertMessageRequester" = "Wir senden Ihnen eine E-Mail an %1$@, um sie darüber zu informieren, dass Sie die Zahlungsanforderung abgelehnt haben.";
+
+"activity.details.saythanks.saidThanksForYou" = "Wir haben Ihre Dankesnachricht gesendet.";
+
+"activity.details.transactionID.text" = "Transaktions-ID: %1$@";
+
+"activity.details.transactionMadeAt.text" = "Zeitpunkt der Transaktion: %1$@";
+
+"activity.filter.segmentedControl.in" = "Zahlungen";
+
+"activity.filter.segmentedControl.out" = "Zahlungen aus";
+
+"activity.filters.customFromDate.futureDateError.text" = "Bitte überprüfen Sie Ihre ausgewählten Daten.";
+
+"activity.filters.titleBar.title" = "Nach Datum filtern";
+
+"activity.list.noTransactions.details.label.text" = "Finden Sie schnell alle Zahlungsinformationen, beantworten Sie Zahlungsanforderungen, senden Sie Zahlungen und vieles mehr.";
+
+"activity.list.noTransactions.systemErrorDetails.label.text" = "Es tut uns leid, es sieht so aus, als wäre bei uns etwas schiefgelaufen. Bitte versuche es gleich noch einmal.";
+
+"activity.list.noTransactions.systemErrorTitle.label.text" = "Entschuldigung, bitte versuche es noch einmal.";
+
+"activity.list.noTransactionsInDateRange.detail.label.text" = "Möchten Sie nach Transaktionen mit einem anderen Datumsbereich suchen?";
+
+"activity.navigationBar.title.availableBalance" = "PayPal-Guthaben: %1$@";
