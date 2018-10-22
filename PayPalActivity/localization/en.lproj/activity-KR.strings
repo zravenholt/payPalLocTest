@@ -1,5 +1,5 @@
 "activity.details.contactSeller.noEmail.errorMessage" = "Set it up in your device settings first. Or contact the seller through the PayPal website.";
-"activity.details.contactSeller.noEmail.errorOk" = "OK";
+"activity.details.contactSeller.noEmail.errorOk" = "OK changes";
 "activity.details.contactSeller.noEmail.errorTitle" = "It looks like you haven't set up email on your mobile yet";
 "activity.details.counterPartyHistory.text" = "See other transactions";
 "activity.details.counterPartySendMoney.text" = "Send payments";
